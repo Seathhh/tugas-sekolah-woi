@@ -2,5 +2,9 @@
 menggunakan git untuk menyimpan repository proyek saya)
 
 Di line ini saya menambahkan update
+<<<<<<< HEAD
 
 saya akan coba update yang sekarang
+=======
+Nathan Hitam
+>>>>>>> 84084bc2e1884784fa5f36ae9aaab42e36c587be
